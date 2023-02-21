@@ -21,6 +21,7 @@ if ( force_ssl_admin() && ! is_ssl() ) {
 		exit;
 	}
 }
+bavagaggha
 
 /**
  * Output the login page header.
